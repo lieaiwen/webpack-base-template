@@ -1,0 +1,12 @@
+$bg-color: #ee3;
+@font-face{
+  font-family: 'wwq';
+  src:url('../assets/hwxk.ttf');
+}
+body{
+  font-family: 'wwq';
+}
+.box{
+  background: url("../assets/wx-l.png") no-repeat center center;
+  height:100px;
+}
